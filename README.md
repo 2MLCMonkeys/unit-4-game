@@ -1,5 +1,6 @@
 # Crystal Collector
-*https://2mlcmonkeys.github.io/unit-4-game/
+
+[Crystal Collector](https://2mlcmonkeys.github.io/unit-4-game/)
 
 ### Object of the Game:
 - At the start of the game you will be given a random number to guess, your goal is to make your score the same as the random number.
@@ -9,13 +10,9 @@
 
 ### Project Instructions
 
-![Crystal Collector](Images/1-CrystalCollector.jpg)
+1. The player will have to guess the answer, just like in Word Guess. This time, though, the player will guess with numbers instead of letters. 
 
-1. [Watch the demo](https://youtu.be/yNI0l2FMeCk).
-
-2. The player will have to guess the answer, just like in Word Guess. This time, though, the player will guess with numbers instead of letters. 
-
-3. Here's how the app works:
+2. Here's how the app works:
 
    * There will be four crystals displayed as buttons on the page.
 
@@ -36,9 +33,10 @@
 
    * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
 
-##### Option 1 Game design notes
+### Usage
+- HTML/CSS
+- Bootstrap
+- JQuery
 
-* The random number shown at the start of the game should be between 19 - 120.
-
-* Each crystal should have a random hidden value between 1 - 12.
-
+#### Let's Play A Game
+![Game](/assets/images/screen.png)
